@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "mandatory": true,
   "download_url": "https://github.com/joaovitorfilie/launcher-release/releases/download/1.0.2/MinecraftModInstaller-1.0.2.exe",
   "changelog": "Versão 1.0.2 - Atualização para corrigir a instalação do forge"
