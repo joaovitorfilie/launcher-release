@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
   "mandatory": true,
   "download_url": "",
-  "changelog": ""
+  "changelog": "isso é uma changelog de teste."
 }
