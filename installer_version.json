@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "mandatory": true,
-  "download_url": "https://github.com/joaovitorfilie/launcher-release/releases/download/1.0.0/MinecraftInstaller-1.0.0.exe",
-  "changelog": "Versão 1.0.0 - primeira versão do launcher."
+  "download_url": "https://github.com/joaovitorfilie/launcher-release/releases/download/1.0.1/MinecraftInstaller-1.0.1.exe",
+  "changelog": "Versão 1.0.1 - Atualização interna para correções de problemas."
 }
